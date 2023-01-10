@@ -5,7 +5,7 @@
 
 1)Current Python version (I use Python 3.10 version)
 2)Download Selenium 
-3)Download webdriver for Chorome
+3)Download webdriver for Chrome
 
 ## Usage
 
